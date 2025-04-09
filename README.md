@@ -17,11 +17,11 @@ I'm a final-year Pharm-D student at Government College University Faisalabad, pa
 ## Projects & Activities
 - **Drug Discovery Course (UCSD - Coursera):** Gained insight into target identification, screening, and optimization.
 - **AI for Connectivity Hackathon:** Led presentation development and pitching.
-- **Stanford Code in Place 2025:** Selected as a section leader to teach students.
+- **Stanford Code in Place 2025:** Applied as a section leader to teach students.
 - **International Student Convention 2025:** Volunteered as an organizer for GCUF.
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/dr-noor-ul-eman-rph) *(replace with your actual link)*
+- [LinkedIn](https://www.linkedin.com/in/dr-noor-ul-eman-rph) 
 - [Email](mailto:nooruleman339@gmail.com)
 
 Thanks for visiting my GitHub!
